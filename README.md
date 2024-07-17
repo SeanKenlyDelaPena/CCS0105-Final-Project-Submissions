@@ -1,2 +1,4 @@
 # README
 202311518
+Sean Kenly R. Dela Pena
+BSCSSE - TN07
